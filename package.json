@@ -27,6 +27,7 @@
         "Extension Packs"
     ],
     "extensionPack": [
+        "sleistner.vscode-fileutils",
         "formulahendry.code-runner",
         "alefragnani.project-manager",
         "Tyriar.vscode-terminal-here",
